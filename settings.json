@@ -1,7 +1,7 @@
 {
     "pageTitle": "나만의 소속사대표 테스트",
     "mainTitle": "난 어떤 소속사대표일까?",
-    "subtitle": "얼굴로 보는 인공지능 동물상 테스트",
+    "subtitle": "얼굴로 보는 인공지능 소속사대표상 테스트",
     "footerText": "&copy; 태영테크 2024. All Rights Reserved.",
     
     "modelUrl": "https://teachablemachine.withgoogle.com/models/ox-kFbDzt/",
@@ -32,7 +32,7 @@
             "title": "방시혁상",
             "explain": "당신과 닮은 방시혁은 한국의 대표적인 연예기획사 HYBE(구 빅히트 엔터테인먼트)의 설립자이자 대표로, BTS를 비롯한 여러 아티스트를 글로벌 슈퍼스타로 키워내며 K-팝의 세계적 인기에 크게 기여한 인물이다. 2005년에 빅히트 엔터테인먼트를 설립한 후, 그의 탁월한 기획력과 프로듀싱 능력으로 BTS, 투모로우바이투게더(TXT), 엔하이픈 등 다양한 아티스트를 성공적으로 육성하였고, HYBE를 세계적인 엔터테인먼트 기업으로 성장시키는 데 중요한 역할을 했다!",
             "celeb": "소속 아티스트: BTS, 투모로우바이투게더(TXT), 엔하이픈, 아일릿, 르세라핌(LE SSERAFIM), 세븐틴, TWS, ZICO, BOYNEXTDOOR, 뉴진스, &TEAM 등",
-            "color": "rgba(265, 100, 50, 1)"
+            "color": "rgba(69, 127, 229, 1)"
         }
     ]
 }
